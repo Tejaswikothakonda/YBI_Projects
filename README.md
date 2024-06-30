@@ -1,1 +1,0 @@
-# hand_written_prediction
